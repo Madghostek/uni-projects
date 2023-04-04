@@ -1,0 +1,312 @@
+Type difficulty:8
+Current player: a
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+best move 3 evaluated at -1
+Current player: b
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][a][ ][ ][ ]
+Your move:3
+Current player: a
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][b][ ][ ][ ]
+[ ][ ][ ][a][ ][ ][ ]
+best move 2 evaluated at 0
+Current player: b
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][b][ ][ ][ ]
+[ ][ ][a][a][ ][ ][ ]
+Your move:1
+Current player: a
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][b][ ][ ][ ]
+[ ][b][a][a][ ][ ][ ]
+best move 3 evaluated at 1
+Current player: b
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][a][ ][ ][ ]
+[ ][ ][ ][b][ ][ ][ ]
+[ ][b][a][a][ ][ ][ ]
+Your move:3
+Current player: a
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][b][ ][ ][ ]
+[ ][ ][ ][a][ ][ ][ ]
+[ ][ ][ ][b][ ][ ][ ]
+[ ][b][a][a][ ][ ][ ]
+best move 3 evaluated at 1
+Current player: b
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][a][ ][ ][ ]
+[ ][ ][ ][b][ ][ ][ ]
+[ ][ ][ ][a][ ][ ][ ]
+[ ][ ][ ][b][ ][ ][ ]
+[ ][b][a][a][ ][ ][ ]
+Your move:4
+Current player: a
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][a][ ][ ][ ]
+[ ][ ][ ][b][ ][ ][ ]
+[ ][ ][ ][a][ ][ ][ ]
+[ ][ ][ ][b][ ][ ][ ]
+[ ][b][a][a][b][ ][ ]
+best move 4 evaluated at 2
+Current player: b
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][a][ ][ ][ ]
+[ ][ ][ ][b][ ][ ][ ]
+[ ][ ][ ][a][ ][ ][ ]
+[ ][ ][ ][b][a][ ][ ]
+[ ][b][a][a][b][ ][ ]
+Your move:4
+Current player: a
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][a][ ][ ][ ]
+[ ][ ][ ][b][ ][ ][ ]
+[ ][ ][ ][a][b][ ][ ]
+[ ][ ][ ][b][a][ ][ ]
+[ ][b][a][a][b][ ][ ]
+best move 4 evaluated at 2
+Current player: b
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][a][ ][ ][ ]
+[ ][ ][ ][b][a][ ][ ]
+[ ][ ][ ][a][b][ ][ ]
+[ ][ ][ ][b][a][ ][ ]
+[ ][b][a][a][b][ ][ ]
+Your move:6
+Current player: a
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][a][ ][ ][ ]
+[ ][ ][ ][b][a][ ][ ]
+[ ][ ][ ][a][b][ ][ ]
+[ ][ ][ ][b][a][ ][ ]
+[ ][b][a][a][b][ ][b]
+best move 4 evaluated at 8
+Current player: b
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][a][a][ ][ ]
+[ ][ ][ ][b][a][ ][ ]
+[ ][ ][ ][a][b][ ][ ]
+[ ][ ][ ][b][a][ ][ ]
+[ ][b][a][a][b][ ][b]
+Your move:0
+Current player: a
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][a][a][ ][ ]
+[ ][ ][ ][b][a][ ][ ]
+[ ][ ][ ][a][b][ ][ ]
+[ ][ ][ ][b][a][ ][ ]
+[b][b][a][a][b][ ][b]
+best move 1 evaluated at 11
+Current player: b
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][a][a][ ][ ]
+[ ][ ][ ][b][a][ ][ ]
+[ ][ ][ ][a][b][ ][ ]
+[ ][a][ ][b][a][ ][ ]
+[b][b][a][a][b][ ][b]
+Your move:1
+Current player: a
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][a][a][ ][ ]
+[ ][ ][ ][b][a][ ][ ]
+[ ][b][ ][a][b][ ][ ]
+[ ][a][ ][b][a][ ][ ]
+[b][b][a][a][b][ ][b]
+best move 1 evaluated at 13
+Current player: b
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][a][a][ ][ ]
+[ ][a][ ][b][a][ ][ ]
+[ ][b][ ][a][b][ ][ ]
+[ ][a][ ][b][a][ ][ ]
+[b][b][a][a][b][ ][b]
+Your move:1
+Current player: a
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][b][ ][a][a][ ][ ]
+[ ][a][ ][b][a][ ][ ]
+[ ][b][ ][a][b][ ][ ]
+[ ][a][ ][b][a][ ][ ]
+[b][b][a][a][b][ ][b]
+best move 3 evaluated at 14
+Current player: b
+[ ][ ][ ][a][ ][ ][ ]
+[ ][b][ ][a][a][ ][ ]
+[ ][a][ ][b][a][ ][ ]
+[ ][b][ ][a][b][ ][ ]
+[ ][a][ ][b][a][ ][ ]
+[b][b][a][a][b][ ][b]
+Your move:1
+Current player: a
+[ ][b][ ][a][ ][ ][ ]
+[ ][b][ ][a][a][ ][ ]
+[ ][a][ ][b][a][ ][ ]
+[ ][b][ ][a][b][ ][ ]
+[ ][a][ ][b][a][ ][ ]
+[b][b][a][a][b][ ][b]
+best move 4 evaluated at 13
+Current player: b
+[ ][b][ ][a][a][ ][ ]
+[ ][b][ ][a][a][ ][ ]
+[ ][a][ ][b][a][ ][ ]
+[ ][b][ ][a][b][ ][ ]
+[ ][a][ ][b][a][ ][ ]
+[b][b][a][a][b][ ][b]
+Your move:6
+Current player: a
+[ ][b][ ][a][a][ ][ ]
+[ ][b][ ][a][a][ ][ ]
+[ ][a][ ][b][a][ ][ ]
+[ ][b][ ][a][b][ ][ ]
+[ ][a][ ][b][a][ ][b]
+[b][b][a][a][b][ ][b]
+best move 6 evaluated at 14
+Current player: b
+[ ][b][ ][a][a][ ][ ]
+[ ][b][ ][a][a][ ][ ]
+[ ][a][ ][b][a][ ][ ]
+[ ][b][ ][a][b][ ][a]
+[ ][a][ ][b][a][ ][b]
+[b][b][a][a][b][ ][b]
+Your move:2
+Current player: a
+[ ][b][ ][a][a][ ][ ]
+[ ][b][ ][a][a][ ][ ]
+[ ][a][ ][b][a][ ][ ]
+[ ][b][ ][a][b][ ][a]
+[ ][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][b]
+best move 2 evaluated at 13
+Current player: b
+[ ][b][ ][a][a][ ][ ]
+[ ][b][ ][a][a][ ][ ]
+[ ][a][ ][b][a][ ][ ]
+[ ][b][a][a][b][ ][a]
+[ ][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][b]
+Your move:6
+Current player: a
+[ ][b][ ][a][a][ ][ ]
+[ ][b][ ][a][a][ ][ ]
+[ ][a][ ][b][a][ ][b]
+[ ][b][a][a][b][ ][a]
+[ ][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][b]
+best move 0 evaluated at 13
+Current player: b
+[ ][b][ ][a][a][ ][ ]
+[ ][b][ ][a][a][ ][ ]
+[ ][a][ ][b][a][ ][b]
+[ ][b][a][a][b][ ][a]
+[a][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][b]
+Your move:2
+Current player: a
+[ ][b][ ][a][a][ ][ ]
+[ ][b][ ][a][a][ ][ ]
+[ ][a][b][b][a][ ][b]
+[ ][b][a][a][b][ ][a]
+[a][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][b]
+best move 2 evaluated at 14
+Current player: b
+[ ][b][ ][a][a][ ][ ]
+[ ][b][a][a][a][ ][ ]
+[ ][a][b][b][a][ ][b]
+[ ][b][a][a][b][ ][a]
+[a][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][b]
+Your move:0
+Current player: a
+[ ][b][ ][a][a][ ][ ]
+[ ][b][a][a][a][ ][ ]
+[ ][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][a]
+[a][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][b]
+best move 0 evaluated at -10000
+Current player: b
+[ ][b][ ][a][a][ ][ ]
+[ ][b][a][a][a][ ][ ]
+[a][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][a]
+[a][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][b]
+Your move:6
+Current player: a
+[ ][b][ ][a][a][ ][ ]
+[ ][b][a][a][a][ ][b]
+[a][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][a]
+[a][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][b]
+best move 0 evaluated at -10002
+Current player: b
+[ ][b][ ][a][a][ ][ ]
+[a][b][a][a][a][ ][b]
+[a][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][a]
+[a][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][b]
+Your move:0
+Current player: a
+[b][b][ ][a][a][ ][ ]
+[a][b][a][a][a][ ][b]
+[a][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][a]
+[a][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][b]
+best move 2 evaluated at -10004
+Current player: b
+[b][b][a][a][a][ ][ ]
+[a][b][a][a][a][ ][b]
+[a][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][a]
+[a][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][b]
+Your move:6
+Current player: a
+[b][b][a][a][a][ ][b]
+[a][b][a][a][a][ ][b]
+[a][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][a]
+[a][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][b]
+best move 5 evaluated at -10006
+Current player: b
+[b][b][a][a][a][ ][b]
+[a][b][a][a][a][ ][b]
+[a][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][a]
+[a][a][b][b][a][ ][b]
+[b][b][a][a][b][a][b]
+Your move:5
+Current player: a
+[b][b][a][a][a][ ][b]
+[a][b][a][a][a][ ][b]
+[a][a][b][b][a][ ][b]
+[b][b][a][a][b][ ][a]
+[a][a][b][b][a][b][b]
+[b][b][a][a][b][a][b]
