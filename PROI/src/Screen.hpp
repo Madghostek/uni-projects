@@ -2,7 +2,7 @@
 #include <vector>
 #include <memory>
 #include "Scorched/Leaderboards/Leaderboards.hpp"
-#include "Scorched/GameController/Gamecontroller.hpp"
+#include "Scorched/GameController/GameController.hpp"
 
 constexpr unsigned int SIZE = 1000;
 

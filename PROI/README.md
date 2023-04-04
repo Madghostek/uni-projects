@@ -1,3 +1,7 @@
+## Schorched next
+
+![screen](schorched.png)
+
 Project Structure:
 
 ```
@@ -27,6 +31,8 @@ Scorched
 |
 |----test (Unit tests)
 ```
+
+if cmake fetch doesn't work, install libvorbis-dev, libflac-dev, libsfml-dev
 
 Run the game with **Scorched.out** and tests with **tests.out**.
 
